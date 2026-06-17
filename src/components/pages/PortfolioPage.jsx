@@ -1,8 +1,8 @@
 import PortfolioCard from '../PortfolioCard';
 
-import marsPicture from "/src/assets/rover-link.png";
-import pokemonPicture from "/src/assets/PokeLore.jpg";
-import fail2Feed from "/src/assets/Fail2Feed.png";
+import marsPicture from "../../assets/rover-link.png";
+import pokemonPicture from "../../assets/PokeLore.jpg";
+import fail2Feed from "../../assets/Fail2Feed.png";
 
 // import blogPicture from "/assets/blog-site.png";
 // import monsterMine from "/assets/monster-mine.png";
