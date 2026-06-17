@@ -25,7 +25,7 @@ element: <App />,
     children: [
 {
   index:true,
-  element: <AboutMe />,
+  element: <Portfolio />,
 },
 {
   path: '/portfolio',
