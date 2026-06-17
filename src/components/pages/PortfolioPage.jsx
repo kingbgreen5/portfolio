@@ -38,7 +38,7 @@ const portfolioProjectsArray = [
   title:'Fail2Feed: Reliability Database',
    repoLink:'https://github.com/kingbgreen5/Fail2Feed',
   deployed: 'https://fail2feed-plt7.onrender.com/',
-  description: "A a full-stack web application using user generated database. Allowing for the recording of reliability data for fireamrs"
+  description: "A a full-stack web application using user generated database. Allows for the recording of reliability data for firearms. NOTE: server take 15-20 seconds to wake from cold start."
 },
 //  {
 //   key: 4,
@@ -77,7 +77,7 @@ return (
      <div class="aboutme">
 I’m a project-driven junior full-stack developer with experience building React applications, 
 working with REST APIs, and using PostgreSQL-backed backend systems.
-I’ve built projects with React, Vite, React Router, Node, Express, Sequelize, PostgreSQL, Mongo, and MySQL 
+I’ve built projects with React, Vite, React Router, Node, Express, Sequelize, PostgreSQL, Mongo, and MySQL, 
 JWT authentication, external APIs, and Render deployment workflows. My strongest experience is 
 building practical applications from scratch, debugging real issues, organizing complex data, and turning 
 that data into usable interfaces.

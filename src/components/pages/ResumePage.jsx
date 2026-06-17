@@ -9,6 +9,6 @@ export default function Resume() {
 <div>
   <br />
   <br />
-  <h2> <a href="/Resume.pdf"  target="_blank">Click to View and Download Resume</a></h2>
+  <h2> <a href="/Brian King -Resume.pdf"  target="_blank">Click to View and Download Resume</a></h2>
 
 </div>    )}
